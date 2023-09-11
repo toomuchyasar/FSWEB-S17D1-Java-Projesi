@@ -1,0 +1,5 @@
+com/workintechS21G1/rest/validation/AnimalValidation.class
+com/workintechS21G1/rest/mapping/AnimalResponse.class
+com/workintechS21G1/rest/RestApplication.class
+com/workintechS21G1/rest/entity/Animal.class
+com/workintechS21G1/rest/controller/AnimalController.class
